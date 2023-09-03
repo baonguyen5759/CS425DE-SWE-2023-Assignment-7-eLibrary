@@ -69,10 +69,17 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
+=======
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.3873563",
+>>>>>>> b29f062 (Assignment 7)
     "settings.editor.selected.configurable": "actions.on.save",
     "spring.configuration.checksum": "3ed656d72ef60e821e4d105ebe1d0e7d"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Spring Boot.ElibraryApplication">
     <configuration name="ElibraryApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eLibrary" />
@@ -87,6 +94,18 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.mum.cs.cs425.demowebapps.elibrary.elibrary.*" />
+=======
+  <component name="RunManager">
+    <configuration name="ElibraryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="eLibrary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.mum.cs.cs425.demowebapps.elibrary.ElibraryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.cs.cs425.demowebapps.elibrary.*" />
+>>>>>>> b29f062 (Assignment 7)
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +113,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+>>>>>>> b29f062 (Assignment 7)
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ElibraryApplication" />
@@ -110,7 +148,11 @@
       <updated>1693752864399</updated>
       <workItem from="1693752865907" duration="13000" />
       <workItem from="1693752885994" duration="3838000" />
+<<<<<<< HEAD
       <workItem from="1693758651253" duration="358000" />
+=======
+      <workItem from="1693758651253" duration="2254000" />
+>>>>>>> b29f062 (Assignment 7)
     </task>
     <task id="LOCAL-00001" summary="assignment 7">
       <created>1693754270875</created>
